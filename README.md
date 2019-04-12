@@ -1,1 +1,1 @@
-# ticktbot1
+# tickety-magic
